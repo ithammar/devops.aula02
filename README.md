@@ -2,5 +2,7 @@
 Atividade de DevOps para treino
 Atrizes  preferidas:
 - Paola Oliveira
-- Camila Queiroz
+- Mariana Ximenes
 - Nanda Costa
+
+- Grazi Massafera
